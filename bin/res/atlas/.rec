@@ -1,0 +1,16 @@
+D .
+D audio
+R 230FE3D2 fail.mp3
+R 9A286FEB go.mp3
+R C5C712D7 success.mp3
+D img
+R 3BD8A380 bg.jpg
+P 61ECCBE5 btn_back.png
+P F13E61AD btn_next.png
+P BACE999F btn_replay.png
+P 81F40AE3 btn_start.png
+P 954F4FDC cat_start_bg.png
+P 2D502BBC end_tip_fail.png
+P 46D2555E end_tip_success.png
+P 974C235E grid_red.png
+P CB2502C8 grid_white.png

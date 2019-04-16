@@ -1,0 +1,23 @@
+{
+	"frames":{
+		"cat_normal0000.png": {"frame":{"x":0,"y":0,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0001.png": {"frame":{"x":61,"y":0,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0002.png": {"frame":{"x":122,"y":0,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0003.png": {"frame":{"x":183,"y":0,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0004.png": {"frame":{"x":0,"y":93,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0005.png": {"frame":{"x":61,"y":93,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0006.png": {"frame":{"x":122,"y":93,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0007.png": {"frame":{"x":183,"y":93,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0008.png": {"frame":{"x":0,"y":186,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0009.png": {"frame":{"x":61,"y":186,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0010.png": {"frame":{"x":122,"y":186,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0011.png": {"frame":{"x":183,"y":186,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0012.png": {"frame":{"x":0,"y":279,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0013.png": {"frame":{"x":61,"y":279,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0014.png": {"frame":{"x":122,"y":279,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}},
+		"cat_normal0015.png": {"frame":{"x":183,"y":279,"w":61,"h":93},"sourceSize":{"h":61,"w":93},"spriteSourceSize":{"x":0,"y":0}}
+	},
+	"meta":
+	{"image":"cat_normal.png","prefix":"img/"}
+}
+
